@@ -98,7 +98,7 @@ body {
 .banner {
   height: 200px;
   width: 500px;
-  background-image: url(https://cdn.discordapp.com/banners/594504468931018752/a_0ed52835dd5fe44b088de169de792816.gif?size=512);
+  background-image: url(https://media.discordapp.net/attachments/779005181760765985/1148718376873627658/Banner.gif?width=1247&height=701);
   background-size: cover;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -114,6 +114,10 @@ body {
 
 .name {
   margin: 100px 0 0 0;
+}
+
+.abtme {
+  padding: 0px 10px 0px 10px;
 }
 
 hr {
